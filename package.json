@@ -1,0 +1,30 @@
+{
+  "name": "poi-learner",
+  "version": "1.0.0",
+  "description": "poi example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "poi dev",
+    "build": "poi build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang657850144/poi-learner.git"
+  },
+  "keywords": [
+    "poi"
+  ],
+  "author": "charles yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yang657850144/poi-learner/issues"
+  },
+  "homepage": "https://github.com/yang657850144/poi-learner#readme",
+  "devDependencies": {
+    "poi": "^11.0.0-beta.6"
+  },
+  "dependencies": {
+    "sao": "^1.3.1"
+  }
+}
